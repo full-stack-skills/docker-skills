@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/docker-skills",
-  "repository": "https://github.com/full-statck-skills/docker-skills",
+  "homepage": "https://github.com/full-stack-skills/docker-skills",
+  "repository": "https://github.com/full-stack-skills/docker-skills",
   "source": "./",
   "skills": [
     "./skills/docker-ai-ml",

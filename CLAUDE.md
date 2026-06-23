@@ -84,4 +84,4 @@ license: Apache-2.0
 
 - **Add a new skill**: Create `skills/docker-<name>/` with `SKILL.md`, `examples/`, `references/`; register in `plugin.json`
 - **Edit a skill**: Modify `SKILL.md` following the section order above; keep frontmatter `description` in sync
-- **Skill discovery**: `npx skills add full-statck-skills/docker-skills` (all) or `--skill <name>` (specific)
+- **Skill discovery**: `npx skills add full-stack-skills/docker-skills` (all) or `--skill <name>` (specific)

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Basics"
+  short_description: "Docker entry point — provides comprehensive guidance for…"
+  default_prompt: "Use $docker-basics to help with my current task: Docker entry point — provides comprehensive guidance for Docker concepts, architecture, and basic operations."

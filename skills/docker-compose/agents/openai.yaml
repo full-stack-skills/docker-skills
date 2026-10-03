@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Compose"
+  short_description: "Expert guidance for Docker Compose — writing production-grade…"
+  default_prompt: "Use $docker-compose to help with my current task: Expert guidance for Docker Compose — writing production-grade compose.yml files for multi-container applications."

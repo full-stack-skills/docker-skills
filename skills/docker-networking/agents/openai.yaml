@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Networking"
+  short_description: "Docker networking configuration and inter-container…"
+  default_prompt: "Use $docker-networking to help with my current task: Guidance for Docker networking configuration and inter-container communication."

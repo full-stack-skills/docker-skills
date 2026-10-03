@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Production"
+  short_description: "deploying Docker in production environments"
+  default_prompt: "Use $docker-production to help with my current task: Guidance for deploying Docker in production environments."

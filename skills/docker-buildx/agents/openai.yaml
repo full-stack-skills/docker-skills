@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Buildx"
+  short_description: "Expert guidance for Docker image building — docker build CLI…"
+  default_prompt: "Use $docker-buildx to help with my current task: Expert guidance for Docker image building — docker build CLI, buildx for multi-platform builds, BuildKit features (secret mounts, cache mounts, SSH forwarding, inline cache)…"

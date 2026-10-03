@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Troubleshooting"
+  short_description: "debugging and troubleshooting Docker issues"
+  default_prompt: "Use $docker-troubleshooting to help with my current task: Guidance for debugging and troubleshooting Docker issues."

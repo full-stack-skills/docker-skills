@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Storage"
+  short_description: "Docker storage and data persistence"
+  default_prompt: "Use $docker-storage to help with my current task: Guidance for Docker storage and data persistence."

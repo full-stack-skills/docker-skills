@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Testcontainers"
+  short_description: "Testcontainers — running Docker containers in automated…"
+  default_prompt: "Use $docker-testcontainers to help with my current task: Guidance for Testcontainers — running Docker containers in automated integration tests."

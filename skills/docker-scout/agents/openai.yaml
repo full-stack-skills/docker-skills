@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Scout"
+  short_description: "Docker Scout — image vulnerability scanning, SBOM generation…"
+  default_prompt: "Use $docker-scout to help with my current task: Guidance for Docker Scout — image vulnerability scanning, SBOM generation, and policy evaluation."

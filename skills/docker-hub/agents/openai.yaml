@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Hub"
+  short_description: "Docker image registries — publishing images to Docker Hub…"
+  default_prompt: "Use $docker-hub to help with my current task: Guidance for Docker image registries — publishing images to Docker Hub, pulling images, tag management strategies, private registry setup (Docker Registry container and Harbor)…"

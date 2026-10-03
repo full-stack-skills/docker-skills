@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Security"
+  short_description: "Docker security hardening across the full lifecycle — image…"
+  default_prompt: "Use $docker-security to help with my current task: Guidance for Docker security hardening across the full lifecycle — image security (minimal base images, non-root users, pinned versions), runtime security…"

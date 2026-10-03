@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Build"
+  short_description: "Expert guidance for the docker build command — building…"
+  default_prompt: "Use $docker-build to help with my current task: Expert guidance for the docker build command — building container images, tagging strategies, build arguments, image management and inspection."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Dockerfile"
+  short_description: "Expert guidance for Dockerfile authoring — the complete…"
+  default_prompt: "Use $docker-dockerfile to help with my current task: Expert guidance for Dockerfile authoring — the complete reference for writing production-grade Dockerfiles."

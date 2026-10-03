@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Cicd"
+  short_description: "integrating Docker into CI/CD pipelines"
+  default_prompt: "Use $docker-cicd to help with my current task: Guidance for integrating Docker into CI/CD pipelines."
